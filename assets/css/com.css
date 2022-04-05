@@ -1,3 +1,7 @@
+@img {
+  .width: 60%;
+}
+
 @media (max-width: 768px) {
   .video-player {
     width: 100%;
