@@ -233,9 +233,9 @@ tr {
       text-align: center; 
       position:relative!important; display: inline-block!important;
       border-style: solid; 
-      width: 40%; padding-left: 0!important; padding-right: 0!important; 
+      width: 90%; padding-left: 0!important; padding-right: 0!important; 
       margin-bottom: 10px; 
-      padding: 5px 11px; border-color: #088A08; border-width: 0px; 
+      padding: 16px 33px; border-color: #088A08; border-width: 0px; 
       border-radius: 50px; 
       background: linear-gradient(to bottom, #088A08 0%, #60d160 100%); 
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
