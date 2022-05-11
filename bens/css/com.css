@@ -235,9 +235,9 @@ tr {
       border-style: solid; 
       width: 60%; padding-left: 0!important; padding-right: 0!important; 
       margin-bottom: 10px; 
-      padding: 22px 44px; border-color: #088A08; border-width: 0px; 
+      padding: 11px 22px; border-color: #088A08; border-width: 0px; 
       border-radius: 50px; 
-      background: linear-gradient(to bottom, #ff6600 0%, #F6960F 100%); 
+      background: linear-gradient(to bottom, #088A08 0%, #60d160 100%); 
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       text-decoration: none!important;  
       animation-name: flash;
@@ -283,12 +283,12 @@ tr {
     }
     @keyframes flash {
       0% {
-        background: linear-gradient(to bottom, #ff6600 0%, #F6960F 100%);
+        background: linear-gradient(to bottom, #088A08 0%, #60d160 100%);
       }
        50% {
-        background: linear-gradient(to bottom, #b54800 0%, #d17a00 100%);
+        background: linear-gradient(to bottom, #035e03 0%, #3fd13f 100%);
       }
        100% {
-        background: linear-gradient(to bottom, #ff6600 0%, #F6960F 100%);
+        background: linear-gradient(to bottom, #088A08 0%,#60d160 100%);
       }
     } 
